@@ -45,7 +45,7 @@
       </semanticModel>
     </contained>
     <contained xsi:type="di:GraphNode" xmi:id="_d8NRMHLxEeKNhuElaJ4jIw" position="346,87" size="139,-1">
-      <anchorage xmi:id="_gLIm4XLxEeKNhuElaJ4jIw" graphEdge="_gLLDIHLxEeKNhuElaJ4jIw"/>
+      <anchorage xmi:id="_gLIm4XLxEeKNhuElaJ4jIw" graphEdge="_gLLDIHLxEeKNhuElaJ4jIw _z2KxwIdjEeKk3f-ROsxFbA"/>
       <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_d8NRMXLxEeKNhuElaJ4jIw" presentation="default">
         <element href="myProfile.uml#_d8flEHLxEeKNhuElaJ4jIw"/>
       </semanticModel>
@@ -61,6 +61,24 @@
         <element href="myProfile.uml#_gLa6wHLxEeKNhuElaJ4jIw"/>
       </semanticModel>
       <contained xsi:type="di:EdgeObjectUV" xmi:id="_gLLDInLxEeKNhuElaJ4jIw" id="requiredFieldEdgeObject"/>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_xEkz4IdjEeKk3f-ROsxFbA" position="559,206" size="120,-1">
+      <anchorage xmi:id="_z2F5QIdjEeKk3f-ROsxFbA" graphEdge="_z2KxwIdjEeKk3f-ROsxFbA"/>
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_xEkz4YdjEeKk3f-ROsxFbA" presentation="default">
+        <element href="myProfile.uml#_xEwaEIdjEeKk3f-ROsxFbA"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_xEkz4odjEeKk3f-ROsxFbA">
+        <property xmi:id="_xEkz44djEeKk3f-ROsxFbA" key="eStructuralFeatureID" value="37"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_xEkz5IdjEeKk3f-ROsxFbA" presentation="default">
+          <element href="myProfile.uml#_xEwaEIdjEeKk3f-ROsxFbA"/>
+        </semanticModel>
+      </contained>
+    </contained>
+    <contained xsi:type="di:GraphEdge" xmi:id="_z2KxwIdjEeKk3f-ROsxFbA" anchor="_z2F5QIdjEeKk3f-ROsxFbA _gLIm4XLxEeKNhuElaJ4jIw">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_z2KxwYdjEeKk3f-ROsxFbA" presentation="default">
+        <element href="myProfile.uml#_z2RfcIdjEeKk3f-ROsxFbA"/>
+      </semanticModel>
+      <contained xsi:type="di:EdgeObjectUV" xmi:id="_z2KxwodjEeKk3f-ROsxFbA" id="requiredFieldEdgeObject"/>
     </contained>
   </diagrams>
 </diagrams:Diagrams>
