@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:myProfile="http:///schemas/myProfile/_kya7EHLxEeKNhuElaJ4jIw/0" xmlns:sysML="http://www.topcased.org/2.0/sysML" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xsi:schemaLocation="http:///schemas/myProfile/_kya7EHLxEeKNhuElaJ4jIw/0 myProfile.uml#_kycwQXLxEeKNhuElaJ4jIw">
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:myProfile="http:///schemas/myProfile/_0UaM8IdjEeKk3f-ROsxFbA/1" xmlns:sysML="http://www.topcased.org/2.0/sysML" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xsi:schemaLocation="http:///schemas/myProfile/_0UaM8IdjEeKk3f-ROsxFbA/1 myProfile.uml#_0UcCIIdjEeKk3f-ROsxFbA">
   <uml:Model xmi:id="idModel" name="MySysMLCopy">
     <packagedElement xmi:type="uml:Package" xmi:id="idPackage" name="MySysMLCopy">
       <packagedElement xmi:type="uml:DataType" xmi:id="_-DpuwHLxEeKNhuElaJ4jIw" name="Power">
@@ -53,7 +53,7 @@
     </profileApplication>
     <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_8KKdkHLxEeKNhuElaJ4jIw">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_8KLEoHLxEeKNhuElaJ4jIw" source="http://www.eclipse.org/uml2/2.0.0/UML">
-        <references xmi:type="ecore:EPackage" href="myProfile.uml#_kycwQXLxEeKNhuElaJ4jIw"/>
+        <references xmi:type="ecore:EPackage" href="myProfile.uml#_0UcCIIdjEeKk3f-ROsxFbA"/>
       </eAnnotations>
       <appliedProfile xmi:type="uml:Profile" href="myProfile.uml#_XkGiwB07Ed-QQ4mYkrb7Gg"/>
     </profileApplication>
@@ -83,4 +83,6 @@
   <myProfile:componentProperty xmi:id="_TVgVMIdeEeKjEo6Z9pN5kA" base_Property="_pw4-IIdTEeKm2KSPNiVU7Q"/>
   <myProfile:componentProperty xmi:id="_TVhjUIdeEeKjEo6Z9pN5kA" base_Property="_pUIJoIdTEeKm2KSPNiVU7Q"/>
   <myProfile:componentProperty xmi:id="_TVixcIdeEeKjEo6Z9pN5kA" base_Property="_orrpkIdTEeKm2KSPNiVU7Q"/>
+  <myProfile:componentProperty xmi:id="_pDYvMIdkEeKnb-pB3q-m4A" base_Property="_cjBqhXtyEeKHQO-wJLiF2A"/>
+  <myProfile:testProperty xmi:id="_sFYgkIdkEeKnb-pB3q-m4A" base_Property="_cjBqgXtyEeKHQO-wJLiF2A"/>
 </xmi:XMI>
